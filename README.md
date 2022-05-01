@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loomical
+- 👋 Hi, I’m @ColdCodeGitHub
 - 👀 I’m interested in computer programming, guitar, and Adventure Time!
 - 🌱 I’m currently learning the craft of developing great software.
 
